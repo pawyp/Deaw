@@ -35,9 +35,9 @@ pip3.5 install deaw
 
 > deaw-admin.py startapp appname
 
-#### serv.sh
+manage.py
 
-##### runserver [HOST] [PORT]
+>env/bin/python3.5 manage.py to start the server
 
->env/bin/python3.5 manage.py runserver 127.0.0.1 8000
+It runs localy on 127.0.0.1 : 8000
 
